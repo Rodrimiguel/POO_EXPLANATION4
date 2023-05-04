@@ -1,0 +1,15 @@
+D:\ISTEA\POO2023-1C\EjercicioClase4\bin\Debug\net6.0\EjercicioClase4.exe
+D:\ISTEA\POO2023-1C\EjercicioClase4\bin\Debug\net6.0\EjercicioClase4.deps.json
+D:\ISTEA\POO2023-1C\EjercicioClase4\bin\Debug\net6.0\EjercicioClase4.runtimeconfig.json
+D:\ISTEA\POO2023-1C\EjercicioClase4\bin\Debug\net6.0\EjercicioClase4.dll
+D:\ISTEA\POO2023-1C\EjercicioClase4\bin\Debug\net6.0\EjercicioClase4.pdb
+D:\ISTEA\POO2023-1C\EjercicioClase4\obj\Debug\net6.0\EjercicioClase4.csproj.AssemblyReference.cache
+D:\ISTEA\POO2023-1C\EjercicioClase4\obj\Debug\net6.0\EjercicioClase4.GeneratedMSBuildEditorConfig.editorconfig
+D:\ISTEA\POO2023-1C\EjercicioClase4\obj\Debug\net6.0\EjercicioClase4.AssemblyInfoInputs.cache
+D:\ISTEA\POO2023-1C\EjercicioClase4\obj\Debug\net6.0\EjercicioClase4.AssemblyInfo.cs
+D:\ISTEA\POO2023-1C\EjercicioClase4\obj\Debug\net6.0\EjercicioClase4.csproj.CoreCompileInputs.cache
+D:\ISTEA\POO2023-1C\EjercicioClase4\obj\Debug\net6.0\EjercicioClase4.dll
+D:\ISTEA\POO2023-1C\EjercicioClase4\obj\Debug\net6.0\refint\EjercicioClase4.dll
+D:\ISTEA\POO2023-1C\EjercicioClase4\obj\Debug\net6.0\EjercicioClase4.pdb
+D:\ISTEA\POO2023-1C\EjercicioClase4\obj\Debug\net6.0\EjercicioClase4.genruntimeconfig.cache
+D:\ISTEA\POO2023-1C\EjercicioClase4\obj\Debug\net6.0\ref\EjercicioClase4.dll
